@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['bus', 'car', 'truck', 'van']
+
+roboflow:
+  workspace: vehicle-detection-nlu3d
+  project: ua-detrac-10k-sample-x7rzf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vehicle-detection-nlu3d/ua-detrac-10k-sample-x7rzf/dataset/1
