@@ -51,7 +51,7 @@ streamlit run app.py
 
 The trained model is hosted on Hugging Face:
 
-👉 [https://huggingface.co/yourusername/your-model](https://huggingface.co/Umutsyhn/traffic-vehicle-detection)
+👉 [Huggingface](https://huggingface.co/Umutsyhn/traffic-vehicle-detection)
 
 ---
 
